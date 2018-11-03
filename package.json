@@ -1,0 +1,16 @@
+{
+  "name": "ultra-console",
+  "version": "1.0.0",
+  "description": "to expand the console of Chrome",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dk-plus/ultra-console.git"
+  },
+  "author": "dkplus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dk-plus/ultra-console/issues"
+  },
+  "homepage": "https://github.com/dk-plus/ultra-console#readme"
+}
