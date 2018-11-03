@@ -16,8 +16,8 @@ console.styleText({
 ### console.styleText(option)
 
 * option <object>
-  * text <string>
-  * style <string>
+ * text <string>
+ * style <string>
 
 For example:
 
@@ -41,10 +41,10 @@ console.styleSupport()
 ### console.img(option)
 
 * option <object>
-  * url <string>
-  * width <number>
-  * height <number>
-  * exStyle <string>
+ * url <string>
+ * width <number>
+ * height <number>
+ * exStyle <string>
 
 For example, a simple sample:
 
