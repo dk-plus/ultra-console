@@ -1,6 +1,7 @@
 # ultra-console
+> A console that expands the console of chrome.
 
-## Usage
+# Usage
 ```javascript
 require('ultra-console');
 
@@ -11,9 +12,9 @@ console.styleText({
 
 ```
 
-## Api
+# Api
 
-### console.styleText(option)
+## console.styleText(option)
 
 * option <object>
  * text <string>
@@ -28,8 +29,9 @@ console.styleText({
 })
 ```
 
+---
 
-### console.styleSupport
+## console.styleSupport
 
 For example:
 
@@ -39,8 +41,9 @@ To show the style that `console.log` support:
 console.styleSupport()
 ```
 
+---
 
-### console.img(option)
+## console.img(option)
 
 * option <object>
  * url <string>
