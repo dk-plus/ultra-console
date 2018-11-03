@@ -9,16 +9,14 @@ console.styleText({
   text: 'hello ultra',
   style: 'font-size: 20px'
 })
-
 ```
 
 # Api
 
 ## console.styleText(option)
-
->- option <object>
-  - text <string>
-  - style <string>
+- option `<object>`
+  - text `<string>`
+  - style `<string>`
 
 For example:
 
@@ -44,12 +42,11 @@ console.styleSupport()
 ---  
 
 ## console.img(option)
-
-> - option <object>
-    - url <string>
-    - width <number>
-    - height <number>
-    - exStyle <string>
+- option `<object>`
+  - url `<string>`
+  - width `<number>`
+  - height `<number>`
+  - exStyle `<string>`
 
 For example, a simple sample:
 
