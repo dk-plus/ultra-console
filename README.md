@@ -28,6 +28,7 @@ console.styleText({
 })
 ```
 
+
 ### console.styleSupport
 
 For example:
@@ -37,6 +38,7 @@ To show the style that `console.log` support:
 ```javascript
 console.styleSupport()
 ```
+
 
 ### console.img(option)
 
