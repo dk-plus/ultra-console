@@ -18,7 +18,8 @@ console.styleText({
 
 - option <object>
   - text <string>
-  - style <string>  
+  - style <string>
+- ...
   
 
 For example:
@@ -51,6 +52,7 @@ console.styleSupport()
   - width <number>
   - height <number>
   - exStyle <string>
+- ...
 
 For example, a simple sample:
 
